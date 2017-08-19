@@ -1,0 +1,64 @@
+
+vegetable-command-ui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+font-export
+  rotate: false
+  xy: 1, 276
+  size: 210, 211
+  orig: 210, 211
+  offset: 0, 0
+  index: -1
+font-title-export
+  rotate: false
+  xy: 1, 489
+  size: 371, 372
+  orig: 371, 372
+  offset: 0, 0
+  index: -1
+menubottom
+  rotate: false
+  xy: 1, 863
+  size: 807, 159
+  orig: 807, 159
+  offset: 0, 0
+  index: -1
+scroll-bar-h
+  rotate: false
+  xy: 1, 245
+  size: 1, 29
+  orig: 1, 29
+  offset: 0, 0
+  index: -1
+scroll-bar-v
+  rotate: false
+  xy: 810, 888
+  size: 29, 1
+  orig: 29, 1
+  offset: 0, 0
+  index: -1
+selector
+  rotate: false
+  xy: 374, 837
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+white
+  rotate: false
+  xy: 213, 486
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 810, 891
+  size: 212, 131
+  split: 81, 6, 77, 4
+  pad: 14, 13, 10, 11
+  orig: 212, 131
+  offset: 0, 0
+  index: -1

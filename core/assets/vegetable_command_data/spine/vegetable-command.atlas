@@ -1,0 +1,55 @@
+
+vegetable-command.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+base
+  rotate: false
+  xy: 54, 95
+  size: 63, 30
+  orig: 63, 30
+  offset: 0, 0
+  index: -1
+building
+  rotate: false
+  xy: 1, 23
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+crosshair
+  rotate: false
+  xy: 100, 82
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+explosion
+  rotate: false
+  xy: 1, 74
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 119, 112
+  size: 1, 13
+  orig: 1, 13
+  offset: 0, 0
+  index: -1
+plane
+  rotate: false
+  xy: 54, 53
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+turret
+  rotate: false
+  xy: 1, 1
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1

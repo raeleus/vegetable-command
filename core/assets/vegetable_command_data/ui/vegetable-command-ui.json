@@ -1,0 +1,88 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: {
+	font: {
+		file: font-export.fnt
+	}
+	title: {
+		file: font-title-export.fnt
+	}
+}
+com.badlogic.gdx.graphics.Color: {
+	clear: {
+		r: 1
+		g: 1
+		b: 1
+		a: 0
+	}
+	down: {
+		r: 0.44666663
+		g: 0.44666663
+		b: 0.44666663
+		a: 1
+	}
+	stage-background: {
+		r: 0
+		g: 0
+		b: 0
+		a: 0.89
+	}
+	white: {
+		r: 1
+		g: 1
+		b: 1
+		a: 1
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
+	selector-clear: {
+		name: selector
+		color: clear
+	}
+	selector-down: {
+		name: selector
+		color: down
+	}
+	stage-background: {
+		name: white
+		color: stage-background
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ImageTextButton$ImageTextButtonStyle: {
+	default: {
+		imageUp: selector-clear
+		imageDown: selector-down
+		imageOver: selector
+		font: font
+		fontColor: white
+		downFontColor: down
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: {
+		font: font
+		fontColor: white
+	}
+	title: {
+		font: title
+		fontColor: white
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default: {
+		hScrollKnob: scroll-bar-h
+		vScrollKnob: scroll-bar-v
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.TextTooltip$TextTooltipStyle: {
+	default: {
+		label: default
+	}
+}
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default: {
+		background: window
+		titleFont: font
+		stageBackground: stage-background
+	}
+}
+}
